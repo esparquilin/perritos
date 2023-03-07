@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/perritos/static/css/main.83aa5c4d.css",
-    "main.js": "/perritos/static/js/main.15f1a02e.js",
+    "main.js": "/perritos/static/js/main.b362565d.js",
     "static/media/icon-image.png": "/perritos/static/media/icon-image.2deab22d7b8f5cc7fdbc.png",
     "static/media/celso.jpg": "/perritos/static/media/celso.22841e54c183567bd12c.jpg",
     "static/media/hershys.jpg": "/perritos/static/media/hershys.bb71680b2deedc3a9f4f.jpg",
@@ -15,10 +15,10 @@
     "static/media/canelo.jpg": "/perritos/static/media/canelo.0abb282f541d8363d8d7.jpg",
     "index.html": "/perritos/index.html",
     "main.83aa5c4d.css.map": "/perritos/static/css/main.83aa5c4d.css.map",
-    "main.15f1a02e.js.map": "/perritos/static/js/main.15f1a02e.js.map"
+    "main.b362565d.js.map": "/perritos/static/js/main.b362565d.js.map"
   },
   "entrypoints": [
     "static/css/main.83aa5c4d.css",
-    "static/js/main.15f1a02e.js"
+    "static/js/main.b362565d.js"
   ]
 }
