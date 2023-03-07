@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/perritos-app-react/static/css/main.7710a3fd.css",
-    "main.js": "/perritos-app-react/static/js/main.e1dada56.js",
-    "static/media/icon-image.png": "/perritos-app-react/static/media/icon-image.2deab22d7b8f5cc7fdbc.png",
-    "static/media/celso.jpg": "/perritos-app-react/static/media/celso.22841e54c183567bd12c.jpg",
-    "static/media/hershys.jpg": "/perritos-app-react/static/media/hershys.bb71680b2deedc3a9f4f.jpg",
-    "static/media/luneta.jpg": "/perritos-app-react/static/media/luneta.b9d700481438eff4d86f.jpg",
-    "static/media/backdrop-image.jfif": "/perritos-app-react/static/media/backdrop-image.cb88f2d2ddd18e91a0e6.jfif",
-    "static/media/main-image.jpg": "/perritos-app-react/static/media/main-image.3f5d39b57cb00a2c2057.jpg",
-    "static/media/shakira.jpg": "/perritos-app-react/static/media/shakira.e9334b65a42fb01b3f3a.jpg",
-    "static/media/rocco.jpg": "/perritos-app-react/static/media/rocco.f404f0ae4adf25a25fd8.jpg",
-    "static/media/ojitos.jpg": "/perritos-app-react/static/media/ojitos.dc09bd3dac917191195b.jpg",
-    "static/media/peluche.jpg": "/perritos-app-react/static/media/peluche.cdc4395b1cc9ef953577.jpg",
-    "static/media/canelo.jpg": "/perritos-app-react/static/media/canelo.0abb282f541d8363d8d7.jpg",
-    "index.html": "/perritos-app-react/index.html",
-    "main.7710a3fd.css.map": "/perritos-app-react/static/css/main.7710a3fd.css.map",
-    "main.e1dada56.js.map": "/perritos-app-react/static/js/main.e1dada56.js.map"
+    "main.css": "/perritos/static/css/main.83aa5c4d.css",
+    "main.js": "/perritos/static/js/main.15f1a02e.js",
+    "static/media/icon-image.png": "/perritos/static/media/icon-image.2deab22d7b8f5cc7fdbc.png",
+    "static/media/celso.jpg": "/perritos/static/media/celso.22841e54c183567bd12c.jpg",
+    "static/media/hershys.jpg": "/perritos/static/media/hershys.bb71680b2deedc3a9f4f.jpg",
+    "static/media/luneta.jpg": "/perritos/static/media/luneta.b9d700481438eff4d86f.jpg",
+    "static/media/backdrop-image.jfif": "/perritos/static/media/backdrop-image.cb88f2d2ddd18e91a0e6.jfif",
+    "static/media/main-image.jpg": "/perritos/static/media/main-image.3f5d39b57cb00a2c2057.jpg",
+    "static/media/shakira.jpg": "/perritos/static/media/shakira.e9334b65a42fb01b3f3a.jpg",
+    "static/media/rocco.jpg": "/perritos/static/media/rocco.f404f0ae4adf25a25fd8.jpg",
+    "static/media/ojitos.jpg": "/perritos/static/media/ojitos.dc09bd3dac917191195b.jpg",
+    "static/media/peluche.jpg": "/perritos/static/media/peluche.cdc4395b1cc9ef953577.jpg",
+    "static/media/canelo.jpg": "/perritos/static/media/canelo.0abb282f541d8363d8d7.jpg",
+    "index.html": "/perritos/index.html",
+    "main.83aa5c4d.css.map": "/perritos/static/css/main.83aa5c4d.css.map",
+    "main.15f1a02e.js.map": "/perritos/static/js/main.15f1a02e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7710a3fd.css",
-    "static/js/main.e1dada56.js"
+    "static/css/main.83aa5c4d.css",
+    "static/js/main.15f1a02e.js"
   ]
 }
